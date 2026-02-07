@@ -48,6 +48,8 @@ The project uses comprehensive battery cycling data from 22 high-density pouch c
 
 ## Installation
 
+The dataset could not be uploaded to this repository because the compressed file exceeds s size limits; the files can be downloaded from https://doi.org/10.1184/R1/14226830
+
 ```bash
 # unzip the dataset
 unzip data.zip
